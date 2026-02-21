@@ -2,9 +2,12 @@
 
 I'm a *t1m-k/tim_k*. 
 
-- 🔭 Contact me: hmm, only at github. Nothing more.
+- 🔭 Contact me: hmm, only at GitHub. Nothing more, please!
 - ⚡ Enjoy my github life! (I have life out of here, right?)
 
-### Disclamer!
-This account is no more than a _game_. **DO NOT TRUST** me or anyone writing you from this account.
-Any questions, wishes and suggestions, especially from kind uncles, are rejected.
+### Disclaimer!
+This account is no more than a _game_ (really?). So please, **DO NOT TRUST** me or anyone writing you from this account anything not connected with GitHub and IT.
+
+Any questions, wishes and suggestions, especially from kind uncles, etc., are rejected.
+
+# Anyone, stop reading my profile, you're scaring me!
