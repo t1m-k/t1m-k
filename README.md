@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a *t1m-k/tim_k*. 
+I'm **t1m-k / tim_k / Tim Kostenok**. 
 
 - 🔭 Contact me: hmm, only at GitHub. Nothing more, please!
 - ⚡ Enjoy my github life! (I have life out of here, right?)
